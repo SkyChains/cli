@@ -1,4 +1,4 @@
-module github.com/luxdefi/cli
+module github.com/skychains/cli
 
 go 1.21
 
@@ -11,12 +11,12 @@ require (
 	github.com/go-git/go-git/v5 v5.11.0
 	github.com/hashicorp/hcl/v2 v2.19.1
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
-	github.com/luxdefi/coreth v0.12.17
-	github.com/luxdefi/lpm v1.0.1
+	github.com/skychains/coreth v0.0.1
+	github.com/luxdefi/lpm v0.0.1
 	github.com/luxdefi/netrunner v1.7.7
-	github.com/luxdefi/node v1.10.21
-	github.com/luxdefi/spacesvm v0.0.15
-	github.com/luxdefi/subnet-evm v0.5.3
+	github.com/skychains/node v0.0.1
+	github.com/skychains/spacesvm v0.0.1
+	github.com/skychains/evm v0.0.1
 	github.com/manifoldco/promptui v0.9.0
 	github.com/melbahja/goph v1.4.0
 	github.com/olekukonko/tablewriter v0.0.5
