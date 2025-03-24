@@ -12,8 +12,8 @@ require (
 	github.com/hashicorp/hcl/v2 v2.19.1
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
 	github.com/skychains/coreth v0.0.1
-	github.com/luxdefi/lpm v0.0.1
-	github.com/luxdefi/netrunner v1.7.7
+	github.com/skychains/lpm v0.0.1
+	github.com/skychains/netrunner v0.0.1
 	github.com/skychains/node v0.0.1
 	github.com/skychains/spacesvm v0.0.1
 	github.com/skychains/evm v0.0.1
